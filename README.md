@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/nightraven-banner.svg" alt="NightRaven77 | Erick Mejía | Software Engineering" width="100%" />
+<img src="images/nightraven-banner.svg" alt="NightRaven77 | Erick Mejía | Software Engineering" width="100%" />
 
 ### Full-Stack Developer · Software Architecture · DevOps
 

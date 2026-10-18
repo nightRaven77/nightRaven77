@@ -1,108 +1,118 @@
 <div align="center">
-<img src="images/banner.png" align="center" style="width: 100%" />
-</div>  
-  
-## 🚀 About Me
 
-### <div align="center">I'm Erick Mejía, a full-time full-stack developer 👨‍💻 at Sistema DIF Hidalgo</div>  
-  
+<img src="images/nightraven-banner.svg" alt="NightRaven77 | Erick Mejía | Software Engineering" width="100%" />
 
-- 🌱 I’m currently learning Go  
-  
+Full-Stack Developer · Software Architecture · DevOps
 
-- ⚡ Fun fact: Cat Lover  
-  
-
-<br/>  
+Building reliable systems. Improving what already exists. Automating what comes next.
 
 
-## 🔗 Connect with me
+
+
+</div>
+
+About me
+
+I'm Erick Mejía, a full-stack developer focused on enterprise software, maintainable architecture, system modernization, and delivery automation.
+
+My work combines hands-on engineering with technical coordination: reviewing architecture and code, collaborating on requirements, maintaining business-critical modules, and improving how teams build and deploy software.
+
+65 repositories migrated as part of a Git-based modernization effort.
+
+5-developer team with responsibilities spanning reviews, task coordination, and requirements discussions.
+
+4 application modules under my current development, coordination, and maintenance responsibilities.
+
+Experience with CI/CD, branch protection, reporting performance improvements, and production systems.
+
+I believe good software should be understandable today, dependable tomorrow, and adaptable when requirements change.
+
+Engineering toolkit
+
+Focus
+
+Technologies & practices
+
+Backend
+
+C#, .NET, ASP.NET Core, Python, FastAPI, REST APIs
+
+Frontend
+
+Angular, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+
+Data
+
+SQL, PostgreSQL, relational modeling, query and reporting optimization
+
+Delivery & operations
+
+Git, Gitea, Gitea Actions, Woodpecker CI, Docker, IIS, Linux
+
+Engineering
+
+Code review, architecture review, technical coordination, CI/CD, maintainability
+
+Selected projects
+
+Equilibrium Vault · Personal finance PWA
+
+A full-stack personal and shared-finance application for tracking income, expenses, credit cards, installment purchases, subscriptions, and savings goals. Its documented architecture combines Angular 19, FastAPI, Supabase/PostgreSQL, authentication, and PWA capabilities, with Docker-based deployment configuration.
+
+What it showcases: multi-part application architecture, finance-domain workflows, authentication and data-access design.
+
+Explore Equilibrium Vault →
+
+My Gym Tracker · Offline-first workout tracking
+
+A mobile-oriented Progressive Web App for workout logging, routines, progressive-overload analysis, estimated one-rep max, and exercise guidance. The repository documents a FastAPI backend, SQLite/PostgreSQL persistence, offline caching, visual exercise assets, and Chart.js analytics.
+
+What it showcases: offline-first product design, analytical features, frontend/backend integration, and practical fitness workflows.
+
+Explore registroGYM →
+
+Pokémon Competitive Calculator · Team analysis & damage calculation
+
+A competitive Pokémon teambuilder with documented damage calculations, type-coverage analysis, speed comparisons, and team import/export. Built with Vue 3, TypeScript, Pinia, and a FastAPI backend; the README also documents pytest and Ruff checks.
+
+What it showcases: domain-specific calculation logic, interactive interfaces, typed frontend development, and test-oriented tooling.
+
+Explore pokeCalculator →
+
+QR Studio Pro · Desktop QR design tool
+
+A Python desktop application for generating customized QR codes from URLs, contact details, Wi-Fi credentials, and other payloads. Its documented toolset includes CustomTkinter, Pillow, multiple visual styles, batch generation, and export to PNG, SVG, PDF, and JPEG.
+
+What it showcases: desktop UI development, image processing, format handling, and packaging workflows.
+
+Explore QR Studio Pro →
+
+Professional engineering highlights
+
+Enterprise application development. Contributed to production systems covering financial administration and donation management, including application maintenance, reporting, and performance optimization.
+
+Repository modernization. Migrated 65 repositories and implemented protected-branch practices to support more structured collaboration and reviews.
+
+Delivery automation. Worked with Woodpecker CI and Gitea Actions to establish build, test, review, and deployment workflows, including deployments to Windows Server/IIS environments.
+
+Technical coordination. Participate in architecture and code reviews, requirements discussions, and work planning within a five-developer team.
+
+Professional work is described at a high level to respect organizational confidentiality.
+
+How I approach engineering
+
+Clarity before complexity · Automation over repetition · Maintainability over shortcuts · Continuous improvement
+
+Connect
+
+GitHub
+
+LinkedIn
+
+GitLab
 
 <div align="center">
-<a href="https://github.com/NightRaven77" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@erick0920" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/NightRaven77" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/erick-david-mejía-pérez-402901128/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-## 🛠️ Tech Stack
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightRaven77&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nightRaven77&&style=flat-square" align="center" />
-</div>  
-
-</div>
+<sub>NightRaven77 · Software engineered to evolve.</sub>
 
 </div>

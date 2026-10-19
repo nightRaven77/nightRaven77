@@ -7,6 +7,7 @@
 **Building reliable systems. Improving what already exists. Automating what comes next.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-nightRaven77-111827?style=for-the-badge&logo=github)](https://github.com/nightRaven77)
+[![GitLa](https://img.shields.io/badge/GitLab-nightRaven77-111827?style=for-the-badge&logo=gitlab)](https://gitlab.com/nightRaven77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-087EA4?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/erick-david-mej%C3%ADa-p%C3%A9rez-402901128/)
 
 </div>
